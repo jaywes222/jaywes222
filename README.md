@@ -1,13 +1,14 @@
 - 👋  Jambo, I'm Jack Jr. (aka JJ/Codes)
 - **👀 Who am I?** Just a simple human navigating life, learning from experiences, and eventually pretending to understand its lessons.
-- **🌱 Currently leveling up in:** React – because I like building things that make me look smarter than I am.
-- **💞️ Collaboration dreams:** Looking to team up on React or Flutter projects. Together, we can make coding look less like magic and more like "Oh, that's how it works!"
+- **🌱 Currently leveling up in:** React & C# – because I like building things that make me look smarter than I am.
+- **💞️ Collaboration dreams:** Looking to team up on React or C# projects. Together, we can make coding look less like magic and more like "Oh, that's how it works!"
 - **📫 How to reach me:** Shoot me an email at wesleyjay202@gmail.com. I check it like it's my Instagram DMs, so go ahead, I dare you. 
 - **⚡ Fun fact:** Failed my driving test once, but still managed to get a license. If that doesn’t scream "perseverance," I don't know what does!
 
 **🛠️ Languages and Frameworks:**
 - *JavaScript* – My BFF in the coding world
 - *React* – We're in a committed relationship
+- *C#* – Sharp enough to cut through complexity 
 - *Flutter* – Still figuring this one out, but I’m dedicated
 - *HTML & CSS* – The classics never die
 

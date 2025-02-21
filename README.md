@@ -9,7 +9,7 @@
 - *JavaScript* – My BFF in the coding world
 - *React* – We're in a committed relationship
 - *C#* – Sharp enough to cut through complexity 
-- *Flutter* – Still figuring this one out, but I’m dedicated
+- *Dart (Flutter)* – Still figuring this one out, but I’m dedicated
 - *HTML & CSS* – The classics never die
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jaywes222&theme=burnt-neon)](https://git.io/streak-stats)

@@ -6,6 +6,7 @@
 - **⚡ Fun fact:** Failed my driving test once, but still managed to get a license. If that doesn’t scream "perseverance," I don't know what does!
 
 **🛠️ Languages and Frameworks:**
+- *Python* - The New Kid in Town
 - *JavaScript* – My BFF in the coding world
 - *React* – We're in a committed relationship
 - *C#* – Sharp enough to cut through complexity 

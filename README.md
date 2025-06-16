@@ -54,6 +54,21 @@ Check out some of my key repositories:
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skptic)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=jaywes222&theme=flat&margin-w=5)
+
+---
+
+## 👁️ Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=jaywes222&color=blue)
+
+---
+
 ## 🌐 Connect With Me
 
 - GitHub: [@jaywes222](https://github.com/jaywes222)

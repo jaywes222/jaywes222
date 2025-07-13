@@ -56,13 +56,6 @@ Check out some of my key repositories:
 
 ---
 
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=jaywes222&theme=flat&margin-w=5)
-
----
-
 ## 👁️ Visitor Counter
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jaywes222&color=blue)
@@ -71,7 +64,7 @@ Check out some of my key repositories:
 
 ## 🌐 Connect With Me
 
-- GitHub: [@jaywes222](https://github.com/jaywes222)
+- GitLab: [@jaywes222](https://gitlab.com/jaywes222)
 - LinkedIn: [Jack Wesley](https://www.linkedin.com/in/wesley-jack/)
 - X: [Skptic0](https://x.com/Skptic0)
 - Medium: [Jack Jr](https://medium.com/@jj_jots)

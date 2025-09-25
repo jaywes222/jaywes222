@@ -46,16 +46,6 @@ Check out some of my key repositories:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaywes222&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaywes222&theme=burnt-neon)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaywes222&layout=compact)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skptic)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 👁️ Visitor Counter
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jaywes222&color=blue)

@@ -1,6 +1,6 @@
 - 👋  Jambo, I'm Jack Jr. (aka JJ/Codes)
 - **👀 Who am I?** Just a simple human navigating life, learning from experiences, and eventually pretending to understand its lessons.
-- **🌱 Currently building:** [AkibaPamoja](https://github.com/MastercraftHq/akibapamoja-backend) — a digital chama app(PS: I came up with the App Name).
+- **🌱 Currently building:** [KraftHaus](https://github.com/jaywes222/KraftHaus-Backend) — krafts made together.
 - **💞️ Collaboration dreams:** Looking to team up on React or C# projects. Together, we can make coding look less like magic and more like "Oh, that's how it works!"
 - **📫 How to reach me:** Shoot me an email at wesleyjay202@gmail.com. I check it like it's my Instagram DMs, so go ahead, I dare you. 
 - **⚡ Fun fact:** Failed my driving test once, but still managed to get a license. If that doesn’t scream "Kenyan," I don't know what does!

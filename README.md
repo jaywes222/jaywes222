@@ -37,6 +37,7 @@
 
 ## 📌 Pinned Projects
 Check out some of my key repositories:
+- 🔗 [KraftHaus](https://github.com/jaywes222/KraftHaus-Backend): Krafts Made Together Using C#(.NET) & React(TS) + TailwindCss.
 - 🔗 [Mastercraft_Payment_Gateway](https://github.com/jaywes222/mastercraft_payment_gateway): A Django RESTful API service for initiating and verifying payments using Paystack.
 - 🔗 [CBSM](https://github.com/jaywes222/Cloud_Subscription_Management): Client subscription management platform built with React(JS) + TailwindCss.
 - 🔗 [CBSM_Backend](https://gitlab.com/jaywes222/cloud_subscription_management): Client subscription management platform backend built with .NET + DAPPER.
